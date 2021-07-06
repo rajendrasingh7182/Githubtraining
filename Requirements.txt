@@ -4,4 +4,4 @@ Type options
 colors
 vibrant
 thame
-dark mode, light mode
+dark mode
