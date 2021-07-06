@@ -1,0 +1,7 @@
+This is chat application
+Emoji
+Type options
+colors
+vibrant
+thame
+dark mode, light mode
